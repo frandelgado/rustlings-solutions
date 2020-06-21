@@ -1,0 +1,12 @@
+/home/francisco/projects/rust/rustlings/target/debug/deps/inotify-d64b1a0a2754b6aa.rmeta: /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/lib.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/events.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/fd_guard.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/inotify.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/util.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/watches.rs
+
+/home/francisco/projects/rust/rustlings/target/debug/deps/libinotify-d64b1a0a2754b6aa.rlib: /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/lib.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/events.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/fd_guard.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/inotify.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/util.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/watches.rs
+
+/home/francisco/projects/rust/rustlings/target/debug/deps/inotify-d64b1a0a2754b6aa.d: /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/lib.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/events.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/fd_guard.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/inotify.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/util.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/watches.rs
+
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/lib.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/events.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/fd_guard.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/inotify.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/util.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/watches.rs:

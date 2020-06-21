@@ -1,0 +1,12 @@
+/home/francisco/projects/rust/rustlings/target/debug/deps/notify-8dc029ec170c727c.rmeta: /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/home/francisco/projects/rust/rustlings/target/debug/deps/libnotify-8dc029ec170c727c.rlib: /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/home/francisco/projects/rust/rustlings/target/debug/deps/notify-8dc029ec170c727c.d: /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs:

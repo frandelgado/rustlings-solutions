@@ -1,0 +1,1 @@
+/home/francisco/projects/rust/rustlings/target/release/rustlings: /home/francisco/projects/rust/rustlings/src/exercise.rs /home/francisco/projects/rust/rustlings/src/main.rs /home/francisco/projects/rust/rustlings/src/run.rs /home/francisco/projects/rust/rustlings/src/ui.rs /home/francisco/projects/rust/rustlings/src/verify.rs

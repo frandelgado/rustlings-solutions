@@ -1,0 +1,9 @@
+/home/francisco/projects/rust/rustlings/target/release/deps/rustlings-cf78befd01c1a9c6: src/main.rs src/ui.rs src/exercise.rs src/run.rs src/verify.rs
+
+/home/francisco/projects/rust/rustlings/target/release/deps/rustlings-cf78befd01c1a9c6.d: src/main.rs src/ui.rs src/exercise.rs src/run.rs src/verify.rs
+
+src/main.rs:
+src/ui.rs:
+src/exercise.rs:
+src/run.rs:
+src/verify.rs:

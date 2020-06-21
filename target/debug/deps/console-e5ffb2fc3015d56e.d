@@ -1,0 +1,12 @@
+/home/francisco/projects/rust/rustlings/target/debug/deps/console-e5ffb2fc3015d56e.rmeta: /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/home/francisco/projects/rust/rustlings/target/debug/deps/libconsole-e5ffb2fc3015d56e.rlib: /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/home/francisco/projects/rust/rustlings/target/debug/deps/console-e5ffb2fc3015d56e.d: /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs:
